@@ -1,0 +1,1 @@
+import{S as s,i as t,s as a,q as e,d as c,n as l}from"./client.bca2caa7.js";function o(s){return{c(){this.h()},l(s){e('[data-svelte="svelte-l0lm7c"]',document.head).forEach(c),this.h()},h(){document.title="For文章頁（iframe）"},m:l,p:l,i:l,o:l,d:l}}class r extends s{constructor(s){super(),t(this,s,null,o,a,{})}}export{r as default};

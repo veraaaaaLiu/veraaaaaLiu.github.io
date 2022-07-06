@@ -1,0 +1,1 @@
+import{S as s,i as t,s as a,q as e,d as c,n as o}from"./client.bca2caa7.js";function n(s){return{c(){this.h()},l(s){e('[data-svelte="svelte-326ehb"]',document.head).forEach(c),this.h()},h(){document.title="For隱私權B版"},m:o,p:o,i:o,o:o,d:o}}class r extends s{constructor(s){super(),t(this,s,null,n,a,{})}}export{r as default};
